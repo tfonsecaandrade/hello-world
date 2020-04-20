@@ -1,2 +1,4 @@
 # hello-world
-just a repository
+Hi!
+
+I don't really like programming, but I can't live without it.
